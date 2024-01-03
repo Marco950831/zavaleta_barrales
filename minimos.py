@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 
 
 #Creación de arreglos
-x = np.array([1,2,3,4,5,6,7,9])
-y = np.array([4,5,6,7,8,9,10,11])
+x = np.array([1,2,3,4,5,6,7,9,10,11])
+y = np.array([4,5,6,7,8,9,10,11,12])
 
 
 #Parámetros del Kernel
